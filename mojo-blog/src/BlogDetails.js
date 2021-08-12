@@ -13,6 +13,7 @@ const BlogDetails = () => {
             history.push('/');
         });
     }
+    //demo coment
 
     return ( 
         <div className="blog-details">
